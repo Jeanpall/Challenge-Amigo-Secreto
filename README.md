@@ -67,10 +67,9 @@ El usuario puede:
 
 Aquí puedes ver imágenes de la aplicación en funcionamiento:  
 
-![Pantalla principal](<img width="1890" height="924" alt="image" src="https://github.com/user-attachments/assets/2d7b847d-cce9-4d0a-9334-4008fef3ce5e" />
-)  
+![Pantalla principal](https://github.com/user-attachments/assets/40691f97-c439-4022-bd5b-c002a4556532)  
 *Ejemplo de la pantalla principal con la lista de amigos*  
 
-![Resultado sorteo](<img width="1819" height="912" alt="image" src="https://github.com/user-attachments/assets/c3f2bdb5-9a34-45f9-a8f9-14266cf49bb5" />
-)  
+![Resultado sorteo](https://github.com/user-attachments/assets/c3f2bdb5-9a34-45f9-a8f9-14266cf49bb5)  
 *Ejemplo del resultado del sorteo del amigo secreto*  
+
